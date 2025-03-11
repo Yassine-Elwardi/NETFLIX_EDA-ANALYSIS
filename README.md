@@ -1,6 +1,6 @@
 # Netflix - Exploratory Data Analysis
 
-Using Pandas & Python Matplotlib to analyze and answer business questions about Netflix movies and TV Show.
+This Netflix Dataset has information about the TV shows and Movies available on Netflix from the year 2008 to 2021. Netflix is an application that keeps growing exponentially whole around the world and it is the most famous streaming platform.
 
 We start by cleaning our data :
 
